@@ -1,0 +1,26 @@
+# --- Build output -----------------------------------------------------------
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+publish/
+*.user
+*.suo
+*.pdb
+
+# Release artifacts (attach these to GitHub Releases, don't commit them)
+/dist/
+/release-assets/
+*.exe
+*.msi
+!scripts/*.ps1
+
+# --- OS / editor ------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# --- Local scratch ----------------------------------------------------------
+*.log
+/tmp/

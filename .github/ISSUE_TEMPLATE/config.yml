@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download the latest release
+    url: https://github.com/ZStudio-lab/AntEk/releases/latest
+    about: Grab the newest installer for Windows.
+
+  - name: Report a security vulnerability
+    url: https://github.com/ZStudio-lab/AntEk/security/advisories/new
+    about: Please report security issues privately, not as a public issue.
